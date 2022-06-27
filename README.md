@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/thapa14/landing-Page-Huddle)
+- Solution URL: [solution](https://github.com/thapa14/landing-Page-Huddle) 
 - Live Site URL: [live site](https://your-live-site-url.com)
 
 ### Built with
