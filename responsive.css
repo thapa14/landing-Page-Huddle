@@ -1,0 +1,37 @@
+@media(min-width: 1400px){
+    .screen{
+        width: 1200px;
+        padding: 5rem;
+        background: var(--violet) url(./images/bg-desktop.svg) no-repeat;
+    }
+    main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 4rem;
+        /* align-items: center; */
+    }
+    .about{
+        text-align: start;
+        margin-top: 8rem;
+    }
+
+    .about h1 {
+        font-weight: 700;
+        font-size: 3rem;
+        line-height: 4.4rem;
+        padding-right: 6rem;
+    }
+    .about p {
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        margin: 2rem 0;
+        color: rgba(255, 255, 255, 0.65);
+        padding-right: 3rem;
+    }
+    button{
+        padding: 1rem 5rem;
+    }
+    footer{
+        justify-content: flex-end;
+    }
+}
